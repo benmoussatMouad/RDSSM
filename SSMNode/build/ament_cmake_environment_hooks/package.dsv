@@ -1,0 +1,4 @@
+source;share/ssm_node/local_setup.bash
+source;share/ssm_node/local_setup.dsv
+source;share/ssm_node/local_setup.sh
+source;share/ssm_node/local_setup.zsh

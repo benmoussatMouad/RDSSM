@@ -1,0 +1,6 @@
+{
+  "package_name": "ssm_node",
+  "non_idl_tuples": [
+    "/home/mouad/Projects/SSMNode/src/SSMNode:msg/SsmMessage.msg"
+  ]
+}

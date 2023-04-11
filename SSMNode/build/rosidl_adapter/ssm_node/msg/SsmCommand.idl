@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from ssm_node/msg/SsmCommand.msg
+// generated code does not contain a copyright notice
+
+
+module ssm_node {
+  module msg {
+    struct SsmCommand {
+      string name;
+
+      uint8 age;
+    };
+  };
+};

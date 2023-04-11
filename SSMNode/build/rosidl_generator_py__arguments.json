@@ -1,0 +1,24 @@
+{
+  "package_name": "ssm_node",
+  "output_dir": "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_generator_py/ssm_node",
+  "template_dir": "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_adapter/ssm_node:msg/SsmMessage.idl"
+  ],
+  "target_dependencies": [
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/lib/python3.11/site-packages/rosidl_generator_py/__init__.py",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/lib/python3.11/site-packages/rosidl_generator_py/generate_py_impl.py",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_adapter/ssm_node/msg/SsmMessage.idl"
+  ]
+}

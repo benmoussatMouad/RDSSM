@@ -1,0 +1,19 @@
+{
+  "package_name": "ssm_node",
+  "output_dir": "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_typesupport_introspection_c/ssm_node",
+  "template_dir": "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_adapter/ssm_node:msg/SsmMessage.idl"
+  ],
+  "target_dependencies": [
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/lib/python3.11/site-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_adapter/ssm_node/msg/SsmMessage.idl"
+  ]
+}

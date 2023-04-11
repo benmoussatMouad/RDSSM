@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from ssm_node/msg/SsmMessage.msg
+// generated code does not contain a copyright notice
+
+
+module ssm_node {
+  module msg {
+    struct SsmMessage {
+      uint64 msg_type;
+
+      uint64 res_type;
+
+      int16 cmd_type;
+
+      string name;
+
+      int32 suid;
+
+      uint64 ssize;
+
+      uint64 hsize;
+
+      double time;
+
+      double save_time;
+    };
+  };
+};

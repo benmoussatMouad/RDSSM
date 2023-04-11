@@ -1,0 +1,19 @@
+{
+  "package_name": "ssm_node",
+  "output_dir": "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_typesupport_fastrtps_cpp/ssm_node",
+  "template_dir": "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_adapter/ssm_node:msg/SsmMessage.idl"
+  ],
+  "target_dependencies": [
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/lib/python3.11/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_adapter/ssm_node/msg/SsmMessage.idl"
+  ]
+}

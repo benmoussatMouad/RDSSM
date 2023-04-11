@@ -1,0 +1,26 @@
+{
+  "package_name": "ssm_node",
+  "output_dir": "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_generator_cpp/ssm_node",
+  "template_dir": "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource",
+  "idl_tuples": [
+    "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_adapter/ssm_node:msg/SsmMessage.idl"
+  ],
+  "target_dependencies": [
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../../../lib/python3.11/site-packages/rosidl_generator_cpp/__init__.py",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__builder.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__struct.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__traits.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__builder.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__struct.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__traits.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__builder.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__struct.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__traits.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__builder.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__struct.hpp.em",
+    "/home/mouad/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__traits.hpp.em",
+    "/home/mouad/Projects/SSMNode/src/SSMNode/build/rosidl_adapter/ssm_node/msg/SsmMessage.idl"
+  ]
+}

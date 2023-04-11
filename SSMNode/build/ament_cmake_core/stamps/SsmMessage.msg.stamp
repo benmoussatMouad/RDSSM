@@ -1,0 +1,9 @@
+uint64 msg_type
+uint64 res_type
+int16 cmd_type
+string name
+int32 suid
+uint64 ssize
+uint64 hsize						
+float64 time
+float64 save_time
